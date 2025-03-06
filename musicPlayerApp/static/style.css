@@ -248,11 +248,11 @@ padding: 20px; /* Add padding for lyrics container */
 
 .lyrics {
 font-size: 600%;
-font-family: "Sofia", sans-serif; /* Specify the desired font family */
-color: #88ff00; /* Set the text color */
+font-family: "Times New Roman", Times, serif; /* Specify the desired font family */
+color: #ffffff; /* Set the text color */
 line-height: 1.6; /* Set the line height for better readability */
 }
 
 #song-lyrics {
-margin: 0px; /* Remove default margin for the lyrics paragraph */
+margin: 100px; /* Remove default margin for the lyrics paragraph */
 }
